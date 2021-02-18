@@ -13,7 +13,7 @@ public class Comparegen {
 		
 		if(z.compareTo(max)>0)
 		{
-			max=x;
+			max=z;
 		}
 		
 		return max;
